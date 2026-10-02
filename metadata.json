@@ -1,0 +1,6 @@
+{
+  "name": "VibeFlow",
+  "description": "Custom modern Spotify client with full music library synchronization, playlists, search, and seamless playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
